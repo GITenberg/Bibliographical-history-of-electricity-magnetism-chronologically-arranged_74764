@@ -1,0 +1,60 @@
+_repo: Bibliographical-history-of-electricity-magnetism-chronologically-arranged_74764
+_version: 0.0.1
+alternative_title: Bibliographical history of electricity and magnetism, chronologically
+  arranged
+contributor:
+  author_of_introductions:
+  - agent_name: Glazebrook, Richard
+    aliases:
+    - Glazebrook, Richard Tetley, Sir
+    - Glazebrook, R. T. (Richard Tetley)
+    birthdate: 1854
+    deathdate: 1935
+    gutenberg_agent_id: '53299'
+    url: http://www.gutenberg.org/2009/agents/53299
+    wikipedia: https://en.wikipedia.org/wiki/Richard_Glazebrook
+  - agent_name: Thompson, Silvanus P. (Silvanus Phillips)
+    alias: Thompson, Silvanus Phillips
+    birthdate: 1851
+    deathdate: 1916
+    gutenberg_agent_id: '36308'
+    url: http://www.gutenberg.org/2009/agents/36308
+    wikipedia: https://en.wikipedia.org/wiki/Silvanus_P._Thompson
+  compiler:
+    agent_name: Mottelay, Paul Fleury
+    alias: Mottelay, P. Fleury (Paul Fleury)
+    birthdate: 1841
+    deathdate: 1922
+    gutenberg_agent_id: '57633'
+    url: http://www.gutenberg.org/2009/agents/57633
+description: '"The present work is the definitive edition of my ''Chronological history
+  of magnetism, electricity and the telegraph'', which had tentative publication (1891-1892)
+  serially in ... ''Engineering'' of London, ''The Electrical world'' of New York,
+  ''La Lumière electrique'' of Paris, and ''L''Industrie moderne'' of Brussels."--Preface'
+gutenberg_issued: '2024-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74764'
+  lccn: '23007613'
+language: en
+pgterms:marc904: https://archive.org/details/b31344690
+pgterms:marc905: 20220206054318mottelay
+pgterms:marc906: '1922'
+pgterms:marc907: GB
+production_note: deaurider, Karin Spence and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bCharles Griffin & Company Limited, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Electricity -- History'
+- !lcsh 'Science, Medieval'
+- !lcsh 'Magnetism -- History'
+- !lcsh 'Electricity -- History -- Bibliography'
+- !lcsh 'Magnetism -- History -- Bibliography'
+- !lcc 'QC'
+- GITenberg
+title: Bibliographical history of electricity & magnetism, chronologically arranged
+url: http://www.gutenberg.org/ebooks/74764
