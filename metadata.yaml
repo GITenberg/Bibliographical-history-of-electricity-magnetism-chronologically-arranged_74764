@@ -27,10 +27,15 @@ contributor:
     deathdate: 1922
     gutenberg_agent_id: '57633'
     url: http://www.gutenberg.org/2009/agents/57633
+covers:
+- cover_type: archival
+  image_path: 74764-h/images/cover.jpg
 description: '"The present work is the definitive edition of my ''Chronological history
   of magnetism, electricity and the telegraph'', which had tentative publication (1891-1892)
   serially in ... ''Engineering'' of London, ''The Electrical world'' of New York,
   ''La Lumière electrique'' of Paris, and ''L''Industrie moderne'' of Brussels."--Preface'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74764#Bibliographical-history-of-electricity-magnetism-chronologically-arranged
 gutenberg_issued: '2024-11-20'
 gutenberg_type: Text
 identifiers:
